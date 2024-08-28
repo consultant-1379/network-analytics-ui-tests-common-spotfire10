@@ -1,0 +1,27 @@
+{
+  "name": "@netan/ui-tests-common",
+  "version": "1.0.2",
+  "description": "Common code for UI/E2E tests using Cucumberjs and Cypress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cypress": "^4.2.0",
+    "cypress-log-to-output": "^1.0.8",
+    "cypress-shadow-dom": "^1.3.0",
+    "mochawesome": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gerrit.ericsson.se/"
+  },
+  "keywords": [
+    "netan",
+    "ui",
+    "e2e",
+    "tests"
+  ],
+  "author": "Ericsson",
+  "license": "Proprietary"
+}
